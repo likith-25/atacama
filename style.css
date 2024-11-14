@@ -933,11 +933,18 @@ header {
 .sec-four ul li:hover {
   width: 45%;
 }
+.sec-four ul li:hover .sec-four-img-bottom p{
+  font-size: 1.5rem;
+}
+.sec-four ul li:hover .arrow-button-2{
+  transform: rotate(0deg);
+  background-color: #ecf86e;
+}
 .overlay-text {
   width: 95%;
 }
 .arrow-button-2 {
-  transform: rotate(0deg);
+  transform: rotate(-45deg);
   background-color: rgb(236, 248, 110);
 }
 .sec-four-img-bottom p {
