@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="192" viewBox="0 0 120 192">
+  <g id="mouse" transform="translate(-36)">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_5" data-name="Path 5" d="M96,36a6,6,0,0,1,6,6V66a6,6,0,0,1-12,0V42A6,6,0,0,1,96,36Zm48,96a48,48,0,0,1-96,0V60a48,48,0,1,1,96,0ZM96,0A60,60,0,0,0,36,60v72a60,60,0,0,0,120,0V60A60,60,0,0,0,96,0Z"/>
+    </g>
+  </g>
+</svg>
